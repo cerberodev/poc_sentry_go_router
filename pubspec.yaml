@@ -16,7 +16,7 @@ dependencies:
     sdk: flutter
   go_router: ^7.0.0 
   intl: ^0.17.0
-  sentry_flutter: ^7.5.0
+  sentry_flutter: ^7.5.1
   
 
 dev_dependencies:
