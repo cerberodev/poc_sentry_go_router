@@ -43,7 +43,6 @@ Future<void> bootstrap(FutureOr<Widget> Function() builder) async {
             ..environment = 'POC'
             ..enableAppLifecycleBreadcrumbs = true
             ..autoAppStart = true
-            ..enableAutoPerformanceTracking = true
             ..enableAutoNativeBreadcrumbs = true
             ..considerInAppFramesByDefault = false
             ..tracesSampleRate = 1.0
