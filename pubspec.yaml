@@ -14,7 +14,7 @@ dependencies:
   flutter_localizations:
     sdk: flutter
   go_router: ^8.0.5 
-  intl: ^0.18.0
+  intl: ^0.18.1
   sentry_flutter: ^7.7.0
   
 
